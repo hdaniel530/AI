@@ -1,7 +1,3 @@
-#Hannah Daniel, hd892
-#CS-UY 4613: Artificial Intelligence Project
-#11/6/18
-
 #import heap methods and copy methods
 from heapq import heappush,heappop, heapify
 from copy import deepcopy
