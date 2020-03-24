@@ -1,7 +1,3 @@
-#Hannah Daniel, hd892
-#CS-UY 4613: Artificial Intelligence Project #2
-#12/24/18
-
 #Import numpy library
 import numpy as np
 learning_rate = 0.1 #learning rate
